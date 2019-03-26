@@ -1,0 +1,4 @@
+Hi this is a initial commit
+
+This is a sample file ,now add this file to git
+
